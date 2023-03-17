@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-創新科技之專題計畫
+愛河尋寶趣 - 打撈機器人
 
 ---
 ## Content
