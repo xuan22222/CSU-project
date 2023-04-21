@@ -11,7 +11,7 @@ tags: [jekyll, ai]
 ---
 ## Content
 * **專題題目** (Project Name & Objectives)
-* **應用與功能說明** (Key Features)
+* **應用與功能說明** (功能:透過植栽釋放的電子訊號，來控制鼓棒的快慢。)
 * **設計考量與所需相關技術** (Design considerations)
 * **系統方塊圖** (System Block Diagrams)
 * **概念驗證** (Proof of Concept)
