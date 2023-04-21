@@ -30,8 +30,11 @@ tags: [jekyll, ai]
 ---
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 互動方式: 伺服馬達
-2. 供電方式: AC電源
+1. 互動方式 - 產生影像: 植物油畫
+2. 互動方式 - 產生燈光: [籐球燈](https://www.ruten.com.tw/item/show?22011338130857)
+3. 互動方式 - 產生聲音: 嬰兒聲
+4. 互動方式 - 產生音樂: [拇指琴/卡林巴琴](https://www.ruten.com.tw/item/show?22040555968006)
+5. 互動方式 - 產生音樂: [空靈鼓](https://www.ruten.com.tw/item/show?22233080228451)
 
 **所需相關技術：**<br>
 1. 植物ECG感測
@@ -49,6 +52,15 @@ TBD
 
 ---
 ## 參考資料:
+
+### [空靈鼓](https://www.ruten.com.tw/item/show?22233080228451)
+<iframe width="885" height="498" src="https://www.youtube.com/embed/s2KK1kNvm5A" title="空靈鼓～《天空之城》1小時無廣告音樂" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### [籐球燈](https://www.ruten.com.tw/item/show?22011338130857)
+![](https://gcs.rimg.com.tw/g1/2/41/a9/22011338130857_504.jpg)
+
+### [拇指琴/卡林巴琴](https://www.ruten.com.tw/item/show?22040555968006)
+![](https://gcs.rimg.com.tw/g2/3/66/06/22040555968006_595.jpg)
 
 ### [植物的反撲？藝術家讓植栽控制握有砍刀的機械手臂](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
 ![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/obydgBehbWnS8zBugUisQ1OhrtG2VF2CSk0KZIIY.png?auto=compress&fit=max&w=730)
