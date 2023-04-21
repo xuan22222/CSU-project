@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plant Interactive Robot
-author: [Richard Kuo]
+author: [xuan22222]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -30,7 +30,7 @@ tags: [jekyll, ai]
 ---
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 移動方式: 固定式機器手臂
+1. 互動方式: 伺服馬達
 2. 供電方式: AC電源
 
 **所需相關技術：**<br>
